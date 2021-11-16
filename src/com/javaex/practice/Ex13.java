@@ -1,4 +1,4 @@
-package com.javaex.practice;//고민:세제곱하는 부분이 왜 불가능하다고 나오는지 모르겠음
+package com.javaex.practice;//Yet Done//고민:세제곱하는 부분이 왜 불가능하다고 나오는지 모르겠음
 
 import java.util.Scanner;
 
