@@ -1,4 +1,4 @@
-package com.javaex.practice;//출제의도:.0이니까 int아니고 double
+package com.javaex.practice;//Yet Done//출제의도:.0이니까 int아니고 double, 연산자(arithmetic)를 string에 넣기
 
 import java.util.Scanner;
 
@@ -13,13 +13,15 @@ public class Ex12 {
 		System.out.print("기호:");
 		String arithmetic = sc.nextLine();
 		
-		System.out.print("숫자1");
+		System.out.print("숫자1:");
 		double num1 = sc.nextDouble();
 		
 		System.out.println("숫자2:");
 		double num2 = sc.nextDouble();
 		
-		if (num1)
+		double outcome = (num1+arithmetic+num2);
+		
+		System.out.println("결과는: "+outcome);
 		
 		
 		
