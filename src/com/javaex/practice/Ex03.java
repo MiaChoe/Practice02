@@ -1,4 +1,4 @@
-package com.javaex.practice;//Yet Done//출제의도:if속의 if+if속의 if에 덧붙는 게 string도 가능하다
+package com.javaex.practice;//Done//출제의도:if속의 if+if속의 if 바깥에 공통된String 덧붙는 게 가능하다
 									//,age앞에 자료형 안 잡아둠, "" 속에서 "" 표현할 줄 알기
 							
 
@@ -18,11 +18,11 @@ public class Ex03 {
 		int age = sc.nextInt();
 		
 		if (age>20) {
-			System.out.println("\"1번그룹"\"입니다");
+			System.out.print("\"1번그룹\"");
 			}
 		else {
-			System.out.println("\"2번그룹\"입니다");
-			}
+			System.out.print("\"2번그룹\"");
+			} System.out.println("입니다");
 			
 		sc.close();
 		

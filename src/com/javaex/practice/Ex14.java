@@ -1,4 +1,4 @@
-package com.javaex.practice;//출제의도:복잡해보여도 범위가 배제라서 더 쉬울 듯. 
+package com.javaex.practice;//Yet Done//출제의도:복잡해보여도 범위가 배제라서 더 쉬울 듯. 
 							//이거 어제 시급1.5배랑 똑같은 고민인 게, 코드만 봐도 정보로 주어진 실수 그대로 쓰고 싶은데 그러니까 값이 아주 수상해짐
 
 import java.util.Scanner;
