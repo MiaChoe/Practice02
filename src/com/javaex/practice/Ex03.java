@@ -1,5 +1,6 @@
 package com.javaex.practice;//Done//출제의도:if속의 if+if속의 if 바깥에 공통된String 덧붙는 게 가능하다
 									//,age앞에 자료형 안 잡아둠, "" 속에서 "" 표현할 줄 알기
+									//2021.11.17(수)07:25, ""를 ""살릴 때는 수업 때 당부처럼 양쪽정렬 아니라 \"\"
 							
 
 import java.util.Scanner;
